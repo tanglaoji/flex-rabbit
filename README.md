@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/tanglaoji/tanglaoji.github.io">
-    <img src="https://github.com/tanglaoji/flex-rabbit/raw/master/src/assets/toji.png" alt="Logo" width="80" height="80">
+    <img src="./src/assets/toji.png" alt="Logo" width="80" height="80">
   </a>
 </p>
 <h3 align="center">FlexRabbit 是一款通过输入CSS代码来学习弹性布局的游戏</h3>
@@ -35,7 +35,7 @@
 		<li>需要注意的是，在进入下一关后，并不会去储存上一关的内容</li>
 	</ol>
 	<br />
-	<img src="https://github.com/tanglaoji/flex-rabbit/raw/master/src/assets/demo.png" alt="flexrabbit-demo">
+	<img src="./src/assets/demo.png" alt="flexrabbit-demo">
 </p>
 
 
